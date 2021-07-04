@@ -1,5 +1,9 @@
 # KRecipe
 I've created a app called KRecipe using React and CSS(who mentions CSS).
-Thanks to Simo Edwin @developedbyed.
-Thanks to React(LOL)
-Thanks to edamam.com for the API.
+<br>
+It is basicaly....recipe-app
+<ul>
+  <li>Simo Edwin @developedbyed.</li>
+  <li>React & CSS(LOL)</li>
+  <li>edamam.com for the API.</li>
+<ul>
